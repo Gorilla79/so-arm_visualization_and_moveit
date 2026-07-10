@@ -28,6 +28,10 @@ Launch MoveIt/RViz:
 ros2 launch so_arm_moveit_config demo.launch.py
 ```
 
+[Screencast from 07-10-2026 05:53:27 PM.webm](https://github.com/user-attachments/assets/feeb0870-3111-4d4a-807c-37ad028f6ab7)
+<img width="1778" height="1040" alt="image" src="https://github.com/user-attachments/assets/f74a1bb3-6287-45f8-bf0f-da45b27f422c" />
+
+
 Run the automatic pick/place demo in a second terminal:
 
 ```bash
@@ -37,6 +41,9 @@ source ~/soarm_ws/install/setup.bash
 
 ros2 run so_arm_moveit_config pick_place_box0.py
 ```
+
+[Screencast from 07-10-2026 05:53:27 PM.webm](https://github.com/user-attachments/assets/14a1f722-80f1-481c-96dd-21ee4c0e3ca0)
+
 
 Default pick/place target:
 
