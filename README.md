@@ -48,3 +48,4 @@ Box_0 place: 0.17, -0.24, 0.06
 ## Notes
 
 Do not run `joint_state_publisher_gui` together with `demo.launch.py`; use one mode at a time to avoid duplicate `/joint_states` publishers.
+

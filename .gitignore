@@ -1,0 +1,30 @@
+# ROS 2 workspace generated files
+/build/
+/install/
+/log/
+
+# If this src directory is used as a repository root, ignore workspace outputs
+../build/
+../install/
+../log/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# ROS logs and local runtime files
+.ros/
+*.bag
+*.db3
+
+# Editor/OS files
+.vscode/
+.idea/
+*~
+*.swp
+.DS_Store
+
+# RViz temporary backups
+*.rviz~
+
